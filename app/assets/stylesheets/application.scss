@@ -1,1 +1,16 @@
 @import "bootstrap/scss/bootstrap";
+
+.banner {
+  background-image: url("app/assets/images/bar.png"); 
+  // color: white;
+  height: 100vh;
+  text-align: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// .banner-content {
+
+// }
